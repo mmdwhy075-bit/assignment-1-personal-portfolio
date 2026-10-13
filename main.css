@@ -1,0 +1,141 @@
+.box{
+    background-color:rgb(29, 29, 73);
+    color: white;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+margin-bottom: 20px;
+text-align: center;
+}
+
+.box a{
+    background-color: grey;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    display:inline-block;
+
+}
+
+.about{
+    background-color: gray;
+    color: white;
+    padding: 20px;
+    margin: auto;
+border-radius: 10px;
+       
+}
+.about img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin: auto;
+}
+
+span{
+    background-color: rgb(128, 128, 128);
+}
+
+.skill{
+    background-color: grey;
+    color: white;
+    clear: both; 
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+.clear{
+    clear: both;
+}
+
+
+
+.child{
+    background-color: rgb(19, 7, 7);
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    float: left;
+
+}
+.clear{
+    clear: both;
+}
+
+.experience{
+    background-color: grey;
+    color: white;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+.experience img {
+     width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin: auto;
+    border: white solid 10px;
+    
+}
+.clear{
+    clear: both;
+}
+
+
+.webpage{
+       background-color: grey;
+    color: white;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.webpage img{
+        width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin: auto;
+    border: white solid 10px;
+}
+.clear{
+    clear: both;
+}
+
+
+.contact{
+    background-color: rgb(29, 29, 73);
+    color: white;
+    padding: 20px;
+    border-radius:10px;
+    margin: auto;
+    margin-top: 20px;
+  
+}
+
+
+.contact a{
+    background-color: grey;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    display:inline-block;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
